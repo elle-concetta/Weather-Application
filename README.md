@@ -1,7 +1,5 @@
 # Weather Application 
-Streamlit Web application that displays the weather conditions and air quality index (Air Visual).
-
-Use the terminal commands to install the following:
+Streamlit Web application that displays the weather conditions and air quality index (Air Visual). Use the terminal commands to install the following:
 ```console
 pip install streamlit-folium
 ```

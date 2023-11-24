@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 from streamlit_pills import pills
 
-api_key = "23f9fc8b-0cda-4723-b605-7a3972ceaf7d"
+api_key = ""
 
 st.title("Weather and Air Quality Web App")
 st.header("Streamlit and AirVisual API")
